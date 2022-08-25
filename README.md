@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nashte13
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...Telecommunication
+- 🌱 I’m currently learning ...communication and computer networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..._nashnjegah13 on Instagram
 
