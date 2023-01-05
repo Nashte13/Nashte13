@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nashte13
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...communication and computer networks
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...coding and software development
+- 🌱 I’m currently learning ...python and javascript
+- 💞️ I’m looking to collaborate on ...software developing projects and machine learning
 - 📫 How to reach me ..._nashnjegah13 on Instagram
 
 <!---
