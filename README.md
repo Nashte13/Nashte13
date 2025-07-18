@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nashte13
-- 👀 I’m interested in ...software development and Networking
+- 👀 I’m interested in ...software development and Computer Networking
 - 🌱 I’m currently learning and have skills in ...python Django, javascript, React and cybersecurity.
 - 💞️ I’m looking to collaborate on ...software developing projects.
 - 📫 How to reach me ...@_nashnjegah13 on Instagram
